@@ -1,0 +1,1 @@
+web: gunicorn bit4blog.wsgi
